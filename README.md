@@ -3,4 +3,4 @@ Command script that allows you to chat with your friend on the same network with
 
 Demo: https://techlm77.com/video.php?v=LocalChat.mp4
 
-Patched (🙁)
+Here's a video that helps you how to set it up: https://techlm77.com/video.php?v=SetupLocalChat.mp4
