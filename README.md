@@ -1,5 +1,5 @@
 # Local-Chat
-Command script that allows you to chat with your friend on the same network without needing to open any port forwording or use internet data.
+Command script that allows you to chat with your friends on the same network without needing to open any port forwording or use internet data.
 
 Demo: https://beta.techlm77.com/video.php?v=LocalChat.mp4
 
